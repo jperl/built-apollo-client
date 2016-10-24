@@ -1,0 +1,11 @@
+{
+  "name": "bundled-apollo-client",
+  "version": "0.5.0-preview.2",
+  "description": "Distribute a bundled version of apollo-client",
+  "main": "./dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jperl/bundled-apollo-client.git"
+  },
+  "homepage": "https://github.com/jperl/bundled-apollo-client#readme"
+}
